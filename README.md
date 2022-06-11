@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lova
+- 👀 I’m interested in C++, C, C#
+- 🌱 I’m currently learning LuaU
+- 📫 How to reach me lova#0001 
